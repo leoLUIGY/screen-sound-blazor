@@ -29,5 +29,6 @@ namespace ScreenSound.WebAssembly.Services
                 logger.LogError(ex, "Erro ao obter as músicas.");
                 throw;
             }
+        }
     }
 }
